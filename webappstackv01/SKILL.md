@@ -18,6 +18,7 @@ bunx --bun skills add unovue/shadcn-vue
 bunx --bun skills add clerk/skills
 bunx --bun skills add vercel-labs/agent-skills
 bunx --bun skills add nextlevelbuilder/ui-ux-pro-max-skill
+bunx --bun skills add tursodatabase/agent-skills
 ```
 
 ## Setup
