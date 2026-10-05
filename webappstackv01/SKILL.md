@@ -27,6 +27,6 @@ If the Use the install agent skills to setup and build the application based on 
 You should create a .env file to put secrets locally but also the env vars built into the vercel UI should be fully usable when live.
 
 **IMPORTANT**
-- This webapp should be optimized for 
+- This webapp should be optimized for SEO
 - This webapp should be installable as a smartphone app via chrome
 - This webapp should be setup to be deployable to vercel
